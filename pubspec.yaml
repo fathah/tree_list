@@ -1,4 +1,4 @@
-name: tree_view
+name: tree_list
 description: A Flutter package for a fully customisable base tree view. Using this package you can build nested tree view with the possibility of making each child widget a parent.
 version: 1.0.5
 homepage: https://github.com/fathah/tree_list
