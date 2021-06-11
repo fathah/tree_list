@@ -1,7 +1,4 @@
-## [0.0.1] - 14-01-2019.
 
-* Added Tree View and 1 example file
+## [1.0.5] - 11/06/2021
 
-## [0.0.3] - 14-01-2019
-
-* Added TravisCI integration
+* Initial Release
